@@ -1,5 +1,7 @@
 # charts
 
+Simply clone the code and run the command yarn start
+
 Scatter Chart:
 ![Screenshot from 2022-12-03 20-53-43](https://user-images.githubusercontent.com/56620278/205449389-2ea59a9b-2cf8-4441-a8c2-c5cf414b8b68.png)
 
